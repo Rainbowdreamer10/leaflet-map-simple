@@ -1,1 +1,4 @@
-
+/* Back ground color */
+body {
+  background-color: ##F3CFC6; /* Replace #yourColor with the hex code of the color you want */
+}
